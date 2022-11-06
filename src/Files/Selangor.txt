@@ -1,0 +1,4 @@
+City: Semenyih
+Temperature: 32
+Coordinate: 2.0074
+Humidity: 56
